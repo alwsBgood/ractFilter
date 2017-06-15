@@ -17,7 +17,6 @@ Thumbs.db
 *.out
 
 # Application specific files
-src
 bundles
 node_modules
 .sass-cache
